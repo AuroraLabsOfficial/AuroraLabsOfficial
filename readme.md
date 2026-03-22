@@ -16,7 +16,7 @@ We don’t just build — we experiment, break limits, and push ideas forward.
 
 ## 🚀 What We Build
 
-* 🤖 Baby AGIs
+* 🤖 Expermintation with Artificial General Intelligence.
 * 🤖 AI Agents & Assistants
 * 🧩 Memory Systems (Episodic + Semantic)
 * 🧠 Local LLM Infrastructure
